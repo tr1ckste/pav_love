@@ -1,0 +1,1 @@
+D:\DOSBox-0.74-3\DOSBox.exe -c "keyb none 866" -c "mount c %~dp0 " -c c: -c cv les1.com
